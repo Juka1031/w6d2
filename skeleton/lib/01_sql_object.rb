@@ -41,7 +41,7 @@ class SQLObject
   end
 
   def self.all
-    # ..
+    # .
   end
 
   def self.parse_all(results)
